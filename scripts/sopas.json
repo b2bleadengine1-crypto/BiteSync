@@ -1,0 +1,1221 @@
+[
+  {
+    "id": "pt-caldo-verde",
+    "slug": "caldo-verde-tradicional",
+    "title": "Caldo Verde Tradicional com Chouriço",
+    "originalTitle": "Caldo Verde Minhoto",
+    "subtitle": "A rainha das sopas portuguesas com couve-galega cortada finíssima e azeite virgem extra",
+    "category": "sopas",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "difficultyLevel": "Fácil",
+    "dropCapLetter": "C",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Tradicional",
+      "Minho",
+      "Couve Galega",
+      "Inverno"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 7.5,
+      "carbs": 24,
+      "fat": 9.2,
+      "fiber": 4.5,
+      "servingSize": "1 tigela funda (350ml)"
+    },
+    "ingredients": [
+      {
+        "item": "Batatas médias para puré",
+        "amount": "500g",
+        "estimatedGrams": 500,
+        "category": "legumes"
+      },
+      {
+        "item": "Couve-galega ripada finíssima para caldo verde",
+        "amount": "250g",
+        "estimatedGrams": 250,
+        "category": "legumes"
+      },
+      {
+        "item": "Chouriço de carne tradicional em rodelas",
+        "amount": "100g",
+        "estimatedGrams": 100,
+        "category": "carnes"
+      },
+      {
+        "item": "Azeite virgem extra de baixa acidez",
+        "amount": "50ml",
+        "estimatedGrams": 45,
+        "category": "despensa"
+      },
+      {
+        "item": "Cebola média picada",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "legumes"
+      },
+      {
+        "item": "Dentes de alho esmagados",
+        "amount": "2 dentes",
+        "estimatedGrams": 10,
+        "category": "legumes"
+      },
+      {
+        "item": "Água da nascente ou filtrada",
+        "amount": "1.5 litros",
+        "estimatedGrams": 1500,
+        "category": "despensa"
+      },
+      {
+        "item": "Sal marinho tradicional",
+        "amount": "1 colher de chá",
+        "estimatedGrams": 6,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Descasque as batatas, a cebola e os dentes de alho. Corte as batatas em cubos e coloque-as numa panela grande com a cebola, o alho, a água e uma colher de chá de sal marinho.",
+        "notes": "Cozer em lume médio até as batatas estarem macias ao toque de um garfo."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Deixe ferver durante 20 minutos [⏳ 20 minutos]. Quando os legumes estiverem completamente cozidos, triture com a varinha mágica até obter um creme aveludado, liso e sem grumos.",
+        "notes": "Se o creme ficar demasiado espesso, adicione meia chávena de água a ferver."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Leve novamente o creme ao lume até levantar fervura suave. Adicione a couve-galega cortada finíssima e metade do azeite virgem extra, mexendo delicadamente.",
+        "notes": "Mantenha a panela destapada para que a couve mantenha o tom verde esmeralda vibrante."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Cozinhe a couve destapada durante 3 a 5 minutos [⏳ 5 minutos] no máximo, para ficar tenra mas com textura fresca e estaladiça.",
+        "notes": "Evite cozinhar demasiado a couve para não perder os nutrientes e a cor."
+      },
+      {
+        "stepNumber": 5,
+        "portugueseText": "Sirva em tigelas de barro tradicionais, colocando duas rodelas de chouriço de carne ligeiramente salteadas no topo e finalizando com um fio generoso do restante azeite virgem cru.",
+        "notes": "Acompanhe sempre com fatias grossas de broa de milho de Avintes ou broa de centeio."
+      }
+    ],
+    "pantrySecret": "Deitar a couve cortada finíssima apenas nos últimos 3 a 5 minutos sem tapar a panela; isto preserva o verde vivo da clorofila e a textura estaladiça.",
+    "originalSourceTitle": "Cozinha Tradicional Portuguesa",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=caldo+verde+tradicional+portugues"
+  },
+  {
+    "id": "pt-sopa-da-pedra",
+    "slug": "sopa-da-pedra-almeirim",
+    "title": "Sopa da Pedra de Almeirim",
+    "originalTitle": "Verdadeira Sopa da Pedra Tradicional",
+    "subtitle": "Rica em feijão vermelho, orelha e entremeada de porco, chouriço de sangue e legumes aromáticos",
+    "category": "sopas",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 75,
+    "servings": 6,
+    "difficulty": "Médio",
+    "difficultyLevel": "Médio",
+    "dropCapLetter": "S",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Ribatejo",
+      "Almeirim",
+      "Feijão Vermelho",
+      "Fumeiro"
+    ],
+    "nutrition": {
+      "calories": 460,
+      "protein": 32,
+      "carbs": 34,
+      "fat": 21,
+      "fiber": 7.2,
+      "servingSize": "1 tigela grande (400g)"
+    },
+    "ingredients": [
+      {
+        "item": "Feijão vermelho demolhado de véspera",
+        "amount": "400g",
+        "estimatedGrams": 400,
+        "category": "legumes"
+      },
+      {
+        "item": "Orelha de porco limpa e escaldada",
+        "amount": "200g",
+        "estimatedGrams": 200,
+        "category": "carnes"
+      },
+      {
+        "item": "Entremeada de porco em pedaços",
+        "amount": "200g",
+        "estimatedGrams": 200,
+        "category": "carnes"
+      },
+      {
+        "item": "Chouriço de carne tradicional",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "carnes"
+      },
+      {
+        "item": "Morcela de sangue tradicional",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "carnes"
+      },
+      {
+        "item": "Batatas em cubos pequenos",
+        "amount": "300g",
+        "estimatedGrams": 300,
+        "category": "legumes"
+      },
+      {
+        "item": "Cenouras em cubinhos",
+        "amount": "2 un (150g)",
+        "estimatedGrams": 150,
+        "category": "legumes"
+      },
+      {
+        "item": "Couve portuguesa em pedaços",
+        "amount": "200g",
+        "estimatedGrams": 200,
+        "category": "legumes"
+      },
+      {
+        "item": "Cebola, alhos, louro e coentros",
+        "amount": "Q.b.",
+        "estimatedGrams": 100,
+        "category": "legumes"
+      },
+      {
+        "item": "Pedra limpa de rio (símbolo lendário)",
+        "amount": "1 un",
+        "estimatedGrams": 50,
+        "category": "despensa"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Numa panela grande com água abundante e uma pedra de rio bem lavada, coloque as carnes (orelha, entremeada, chouriço de carne) e o feijão vermelho demolhado.",
+        "notes": "Coza em lume médio durante 50 minutos [⏳ 50 minutos] retirando as impurezas da superfície."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Quando as carnes estiverem tenras, retire-as da panela e corte em fatias e cubos. Adicione a morcela nos últimos 15 minutos de cozedura para não rebentar.",
+        "notes": "Reserve as carnes cortadas."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Ao caldo com feijão junte a batata em cubos, as cenouras, a cebola picada e a couve. Deixe cozer durante 15 minutos até os vegetais estarem macios.",
+        "notes": "Esmague uma concha de feijão contra a parede da panela para aveludar o caldo."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Volte a juntar as carnes cortadas à panela, retifique o sal e o piri-piri, polvilhe com coentros frescos picados e sirva bem quente com a pedra no fundo da terrina.",
+        "notes": "A lenda do frade que fez sopa com uma pedra faz desta sopa uma das mais célebres do país."
+      }
+    ],
+    "pantrySecret": "Esmagar uma concha cheia de feijão cozido contra a lateral da panela para engrossar naturalmente o caldo tornando-o untuoso e encorpado sem usar farinhas.",
+    "originalSourceTitle": "Confraria da Sopa da Pedra de Almeirim",
+    "originalSourceUrl": "https://pt.wikipedia.org/wiki/Sopa_da_pedra"
+  },
+  {
+    "id": "pt-acorda-alentejana",
+    "slug": "acorda-alentejana",
+    "title": "Açorda Alentejana com Alho e Ovo Escalfado",
+    "originalTitle": "Açorda Tradicional Alentejana",
+    "subtitle": "Pão alentejano fatiado regado com caldo perfumado de alho pisado no almofariz, poejos ou coentros e ovo escalfado",
+    "category": "sopas",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "difficultyLevel": "Fácil",
+    "dropCapLetter": "A",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Alentejo",
+      "Pão",
+      "Coentros",
+      "Azeite",
+      "Vegetariano"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 11,
+      "carbs": 38,
+      "fat": 14.5,
+      "fiber": 2.8,
+      "servingSize": "1 prato fundo (300g)"
+    },
+    "ingredients": [
+      {
+        "item": "Pão de trigo alentejano do dia anterior em fatias finas",
+        "amount": "300g",
+        "estimatedGrams": 300,
+        "category": "despensa"
+      },
+      {
+        "item": "Dentes de alho frescos descascados",
+        "amount": "5 dentes",
+        "estimatedGrams": 25,
+        "category": "legumes"
+      },
+      {
+        "item": "Coentros frescos ou poejos da ribeira",
+        "amount": "1 molho generoso (40g)",
+        "estimatedGrams": 40,
+        "category": "legumes"
+      },
+      {
+        "item": "Azeite virgem extra alentejano de alta qualidade",
+        "amount": "80ml",
+        "estimatedGrams": 75,
+        "category": "despensa"
+      },
+      {
+        "item": "Ovos frescos do campo para escalfar",
+        "amount": "4 un",
+        "estimatedGrams": 200,
+        "category": "laticinios"
+      },
+      {
+        "item": "Sal marinho grosso",
+        "amount": "1 colher de chá cheia",
+        "estimatedGrams": 8,
+        "category": "especiarias"
+      },
+      {
+        "item": "Água a ferver",
+        "amount": "1.2 litros",
+        "estimatedGrams": 1200,
+        "category": "despensa"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "No almofariz de barro ou pedra, junte os dentes de alho picados grosseiramente, os coentros frescos (ou poejos) e o sal grosso. Pise tudo vigorosamente até obter uma pasta aromática esmeralda homogénea.",
+        "notes": "Pisar no almofariz liberta os óleos essenciais do alho e da erva fresca que a lâmina metálica não extrai."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Deite a pasta pisada para uma terrina funda e verta por cima o azeite virgem extra alentejano cru, misturando delicadamente.",
+        "notes": "O azeite nunca deve ser aquecido para manter o sabor frutado intacto."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Num tacho com a água a ferver, escalfe os 4 ovos com cuidado durante 3 minutos [⏳ 3 minutos] até a clara firmar e a gema ficar completamente líquida. Retire os ovos com escumadeira.",
+        "notes": "Adicionar uma gota de vinagre à água ajuda a manter o ovo compacto."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Verta a água fervente da cozedura dos ovos diretamente na terrina sobre o azeite e o piso de ervas, mexendo rapidamente. Distribua as fatias de pão no prato, regue com o caldo fervente e coloque o ovo escalfado por cima.",
+        "notes": "Ao romper a gema no prato, a textura torna-se aveludada e sublime."
+      }
+    ],
+    "pantrySecret": "Pisar o alho, os coentros e o sal no almofariz e deitar a água fervente por cima do azeite cru; a emulsão perfuma toda a casa instantaneamente.",
+    "originalSourceTitle": "Compêndio da Cozinha Alentejana",
+    "originalSourceUrl": "https://pt.wikipedia.org/wiki/A%C3%A7orda_%C3%A0_alentejana"
+  },
+  {
+    "id": "pt-sopa-de-cacao",
+    "slug": "sopa-de-cacao-alentejana",
+    "title": "Sopa de Cação à Alentejana com Poejos",
+    "originalTitle": "Sopa de Cação de Portel",
+    "subtitle": "Postas suculentas de cação envolvidas em caldo aveludado de azeite, alho, farinha torrada, vinagre e poejos",
+    "category": "sopas",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Médio",
+    "difficultyLevel": "Médio",
+    "dropCapLetter": "S",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Alentejo",
+      "Peixe",
+      "Poejo",
+      "Pão"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 31,
+      "carbs": 26,
+      "fat": 14,
+      "fiber": 1.8,
+      "servingSize": "1 prato fundo com pão (350g)"
+    },
+    "ingredients": [
+      {
+        "item": "Postas de cação fresco ou congelado limpas",
+        "amount": "600g",
+        "estimatedGrams": 600,
+        "category": "peixes"
+      },
+      {
+        "item": "Dentes de alho picados",
+        "amount": "6 dentes",
+        "estimatedGrams": 30,
+        "category": "legumes"
+      },
+      {
+        "item": "Farinha de trigo sem fermento",
+        "amount": "40g (2 colheres)",
+        "estimatedGrams": 40,
+        "category": "despensa"
+      },
+      {
+        "item": "Azeite virgem extra alentejano",
+        "amount": "60ml",
+        "estimatedGrams": 55,
+        "category": "despensa"
+      },
+      {
+        "item": "Vinagre de vinho branco",
+        "amount": "40ml",
+        "estimatedGrams": 40,
+        "category": "despensa"
+      },
+      {
+        "item": "Folhas frescas de poejo ou coentros",
+        "amount": "1 molho",
+        "estimatedGrams": 20,
+        "category": "legumes"
+      },
+      {
+        "item": "Pão alentejano fatiado",
+        "amount": "6 fatias",
+        "estimatedGrams": 200,
+        "category": "despensa"
+      },
+      {
+        "item": "Água quente",
+        "amount": "1 litro",
+        "estimatedGrams": 1000,
+        "category": "despensa"
+      },
+      {
+        "item": "Sal marinho e louro",
+        "amount": "A gosto",
+        "estimatedGrams": 5,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Tempere as postas de cação com sal, os dentes de alho picados e as folhas de poejo picadinhas com 30 minutos de antecedência.",
+        "notes": "A marinada perfuma o peixe branco."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Num tacho de barro, aqueça o azeite com o alho da marinada e uma folha de louro até perfumar. Junte a farinha de trigo e mexa com vara de arames durante 2 minutos até alourar suavemente.",
+        "notes": "Forma um roux dourado que aveludará a sopa."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Verta lentamente a água quente e o vinagre sem parar de mexer para não formar grumos. Deixe levantar fervura suave.",
+        "notes": "O vinagre confere o clássico toque avinagrado de Portel."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Junte as postas de cação e mais poejos frescos ao caldo. Cozinhe em lume brando durante 6 a 8 minutos [⏳ 7 minutos] até o peixe ficar cozinhado e macio.",
+        "notes": "O cação coze muito depressa."
+      },
+      {
+        "stepNumber": 5,
+        "portugueseText": "Coloque as fatias de pão no fundo dos pratos, deite as postas de cação e regue generosamente com o caldo aveludado e perfumado a poejos.",
+        "notes": "Sirva imediatamente."
+      }
+    ],
+    "pantrySecret": "Alourar a farinha no azeite com alho antes de juntar a água quente e o vinagre; o caldo fica sedoso como um velouté rústico aromatizado com poejo fresco.",
+    "originalSourceTitle": "Receitas Tradicionais do Baixo Alentejo",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=sopa+de+cacao+alentejana"
+  },
+  {
+    "id": "pt-canja-de-galinha",
+    "slug": "canja-de-galinha-tradicional",
+    "title": "Canja de Galinha do Campo com Massinhas",
+    "originalTitle": "Canja de Galinha à Portuguesa",
+    "subtitle": "Caldo dourado límpido de galinha gorda do campo com massinhas estrelinha, miúdos e folhinhas de hortelã",
+    "category": "sopas",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "difficulty": "Fácil",
+    "difficultyLevel": "Fácil",
+    "dropCapLetter": "C",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Aves",
+      "Conforto",
+      "Tradição",
+      "Hortelã"
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein": 24,
+      "carbs": 22,
+      "fat": 8.5,
+      "fiber": 1.2,
+      "servingSize": "1 prato fundo (350ml)"
+    },
+    "ingredients": [
+      {
+        "item": "Galinha do campo com miúdos cortada em pedaços",
+        "amount": "1/2 galinha (800g)",
+        "estimatedGrams": 800,
+        "category": "carnes"
+      },
+      {
+        "item": "Massa pevide ou estrelinha de sêmola de trigo",
+        "amount": "150g",
+        "estimatedGrams": 150,
+        "category": "despensa"
+      },
+      {
+        "item": "Cebola inteira",
+        "amount": "1 un",
+        "estimatedGrams": 120,
+        "category": "legumes"
+      },
+      {
+        "item": "Cenoura cortada em rodelinhas finas",
+        "amount": "1 un",
+        "estimatedGrams": 90,
+        "category": "legumes"
+      },
+      {
+        "item": "Haste de hortelã da ribeira fresca",
+        "amount": "1 molho",
+        "estimatedGrams": 10,
+        "category": "legumes"
+      },
+      {
+        "item": "Água da nascente",
+        "amount": "2 litros",
+        "estimatedGrams": 2000,
+        "category": "despensa"
+      },
+      {
+        "item": "Sal marinho",
+        "amount": "1 colher de sopa",
+        "estimatedGrams": 12,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Numa panela grande, coloque os pedaços de galinha, os miúdos, a cebola inteira descascada, a cenoura e a água com sal. Leve ao lume até levantar fervura.",
+        "notes": "Retire a espuma cinzenta que se forma à superfície com uma escumadeira."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Cozinhe em lume brando durante 35 a 40 minutos [⏳ 40 minutos] até a galinha ficar completamente tenra.",
+        "notes": "O caldo adquire um tom dourado límpido natural da gordura da ave."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Retire a galinha e os miúdos para um prato, deixe amornar e desfie a carne e corte os miúdos em pedacinhos miúdos, descartando ossos e peles.",
+        "notes": "Coe o caldo se desejar uma transparência cristalina."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Deite a massa pevide no caldo a ferver e cozinhe durante 6 a 8 minutos [⏳ 7 minutos] até ficar al dente.",
+        "notes": "Junte a carne desfiada e os miúdos de volta ao caldo."
+      },
+      {
+        "stepNumber": 5,
+        "portugueseText": "Sirva fumegante em tigelas coroada com folhinhas de hortelã fresca colhida no momento.",
+        "notes": "O contraste da hortelã com o caldo quente é a marca da canja familiar portuguesa."
+      }
+    ],
+    "pantrySecret": "Escumar cuidadosamente a superfície durante os primeiros 10 minutos de fervura da galinha e aromatizar no prato com hortelã fresca quebrando as folhas à mão.",
+    "originalSourceTitle": "Receitas de Família Portuguesas",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=canja+de+galinha+tradicional+portuguesa"
+  },
+  {
+    "id": "pt-sopa-de-tomate",
+    "slug": "sopa-de-tomate-alentejana",
+    "title": "Sopa de Tomate Alentejana com Ovo e Chouriço",
+    "originalTitle": "Sopa de Tomate à Alentejana",
+    "subtitle": "Tomates maduros em refogado adocicado com pimentos, servida com fatias de pão alentejano e ovo escalfado",
+    "category": "sopas",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "difficultyLevel": "Fácil",
+    "dropCapLetter": "S",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Alentejo",
+      "Tomate",
+      "Ovo",
+      "Pão"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 13,
+      "carbs": 32,
+      "fat": 18,
+      "fiber": 4.1,
+      "servingSize": "1 prato fundo (350g)"
+    },
+    "ingredients": [
+      {
+        "item": "Tomates maduros carnudos pelados e picados",
+        "amount": "800g",
+        "estimatedGrams": 800,
+        "category": "legumes"
+      },
+      {
+        "item": "Cebola grande picada",
+        "amount": "1 un (150g)",
+        "estimatedGrams": 150,
+        "category": "legumes"
+      },
+      {
+        "item": "Pimento verde cortado em tiras finas",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "legumes"
+      },
+      {
+        "item": "Dentes de alho picados",
+        "amount": "3 dentes",
+        "estimatedGrams": 15,
+        "category": "legumes"
+      },
+      {
+        "item": "Ovos frescos para escalfar",
+        "amount": "4 un",
+        "estimatedGrams": 200,
+        "category": "laticinios"
+      },
+      {
+        "item": "Chouriço de carne em rodelas",
+        "amount": "80g",
+        "estimatedGrams": 80,
+        "category": "carnes"
+      },
+      {
+        "item": "Azeite virgem extra",
+        "amount": "50ml",
+        "estimatedGrams": 45,
+        "category": "despensa"
+      },
+      {
+        "item": "Pão alentejano fatiado",
+        "amount": "4 fatias grossas",
+        "estimatedGrams": 160,
+        "category": "despensa"
+      },
+      {
+        "item": "Ramos de orégãos secos ou hortelã",
+        "amount": "1 colher",
+        "estimatedGrams": 3,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Num tacho de barro, aqueça o azeite e aloure as rodelas de chouriço durante 2 minutos. Retire o chouriço e reserve a gordura no tacho.",
+        "notes": "A gordura do chouriço perfuma a base de todo o refogado."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "No mesmo azeite, refogue a cebola, o alho e as tiras de pimento verde em lume brando até ficarem muito macios e transparentes.",
+        "notes": "O pimento verde é essencial para a identidade alentejana deste prato."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Adicione os tomates picados, orégãos e louro. Cozinhe em lume brando durante 15 minutos [⏳ 15 minutos] mexendo até o tomate desfazer e formar um molho espesso e aveludado.",
+        "notes": "Adicione cerca de 600ml de água fervente e tempere de sal."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Abra os 4 ovos diretamente no caldo borbulhante e deixe escalfar suavemente durante 3 minutos até as claras firmarem.",
+        "notes": "Coloque as fatias de pão no fundo dos pratos, deite a sopa, o ovo e as rodelas de chouriço."
+      }
+    ],
+    "pantrySecret": "Refogar primeiro o chouriço no azeite para libertar o pimentão e juntar pimento verde tenro ao tomate maduro de verão.",
+    "originalSourceTitle": "Receitas Típicas do Alentejo Central",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=sopa+de+tomate+alentejana+tradicional"
+  },
+  {
+    "id": "pt-sopa-de-peixe",
+    "slug": "sopa-de-peixe-nazare",
+    "title": "Sopa de Peixe da Costa da Nazaré com Hortelã",
+    "originalTitle": "Sopa de Peixe à Pescador",
+    "subtitle": "Caldo rico apurado com peixes de rocha e cabeça de garoupa, massinha de cotovelinhos e hortelã fresca",
+    "category": "sopas",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "difficulty": "Médio",
+    "difficultyLevel": "Médio",
+    "dropCapLetter": "S",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Peixe",
+      "Mar",
+      "Nazaré",
+      "Oeste",
+      "Hortelã"
+    ],
+    "nutrition": {
+      "calories": 290,
+      "protein": 27,
+      "carbs": 23,
+      "fat": 9,
+      "fiber": 2.4,
+      "servingSize": "1 prato fundo (380ml)"
+    },
+    "ingredients": [
+      {
+        "item": "Peixes variados de caldeirada (safio, raia, garoupa)",
+        "amount": "700g",
+        "estimatedGrams": 700,
+        "category": "peixes"
+      },
+      {
+        "item": "Massa cotovelinhos pequenos",
+        "amount": "100g",
+        "estimatedGrams": 100,
+        "category": "despensa"
+      },
+      {
+        "item": "Tomate maduro triturado",
+        "amount": "200g",
+        "estimatedGrams": 200,
+        "category": "legumes"
+      },
+      {
+        "item": "Cebola média picadinha",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "legumes"
+      },
+      {
+        "item": "Dentes de alho picados",
+        "amount": "3 dentes",
+        "estimatedGrams": 15,
+        "category": "legumes"
+      },
+      {
+        "item": "Azeite virgem extra",
+        "amount": "40ml",
+        "estimatedGrams": 36,
+        "category": "despensa"
+      },
+      {
+        "item": "Vinho branco seco",
+        "amount": "60ml",
+        "estimatedGrams": 60,
+        "category": "despensa"
+      },
+      {
+        "item": "Raminhos fartos de hortelã fresca",
+        "amount": "1 molho",
+        "estimatedGrams": 15,
+        "category": "legumes"
+      },
+      {
+        "item": "Pão frito em cubinhos",
+        "amount": "60g",
+        "estimatedGrams": 60,
+        "category": "despensa"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Coza os peixes em 1.5L de água com sal, uma cebola e um raminho de salsa durante 15 minutos [⏳ 15 minutos]. Retire os peixes, limpe de peles e espinhas e coe o caldo precioso num passador de rede fina.",
+        "notes": "O caldo coado é o coração da sopa de peixe."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Num tacho com o azeite, refogue a cebola picada e o alho. Junte o tomate triturado e refresque com o vinho branco, deixando apurar durante 8 minutos.",
+        "notes": "O refogado deve ficar apurado e vermelho brilhante."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Adicione o caldo de peixe coado ao refogado e deixe levantar fervura. Junte os cotovelinhos e coza durante 8 minutos [⏳ 8 minutos].",
+        "notes": "Acrescente o peixe limpo em lascas nos últimos 2 minutos."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Apague o lume, deite um ramo generoso de hortelã fresca dentro da sopa e tape durante 3 minutos antes de servir com cubos de pão torrado.",
+        "notes": "A hortelã corta qualquer gordura e traz frescura oceânica inconfundível."
+      }
+    ],
+    "pantrySecret": "Tapar o tacho com um ramo farto de hortelã fresca durante 3 minutos fora do lume antes de servir; o aroma a maresia com hortelã é inconfundível.",
+    "originalSourceTitle": "Comunidade Marítima da Nazaré e Peniche",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=sopa+de+peixe+tradicional+nazare"
+  },
+  {
+    "id": "pt-sopa-de-castanhas",
+    "slug": "sopa-de-castanhas-tras-os-montes",
+    "title": "Sopa de Castanhas de Trás-os-Montes com Presunto",
+    "originalTitle": "Caldo de Castanhas Piladas",
+    "subtitle": "Aveludada sopa reconfortante de castanhas transmontanas com batata, chalotas e fios estaladiços de presunto bísaro",
+    "category": "sopas",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "difficultyLevel": "Fácil",
+    "dropCapLetter": "S",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Trás-os-Montes",
+      "Castanhas",
+      "Outono",
+      "Presunto"
+    ],
+    "nutrition": {
+      "calories": 270,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 8.5,
+      "fiber": 5.5,
+      "servingSize": "1 taça aveludada (300ml)"
+    },
+    "ingredients": [
+      {
+        "item": "Castanhas congeladas ou frescas descascadas",
+        "amount": "500g",
+        "estimatedGrams": 500,
+        "category": "frutas"
+      },
+      {
+        "item": "Batata média cortada em cubos",
+        "amount": "1 un (150g)",
+        "estimatedGrams": 150,
+        "category": "legumes"
+      },
+      {
+        "item": "Alho-francês em rodelas (apenas parte branca)",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "legumes"
+      },
+      {
+        "item": "Cebola média picada",
+        "amount": "1 un (100g)",
+        "estimatedGrams": 100,
+        "category": "legumes"
+      },
+      {
+        "item": "Presunto transmontano em tirinhas crocantes",
+        "amount": "60g",
+        "estimatedGrams": 60,
+        "category": "carnes"
+      },
+      {
+        "item": "Azeite virgem transmontano",
+        "amount": "40ml",
+        "estimatedGrams": 36,
+        "category": "despensa"
+      },
+      {
+        "item": "Caldo de legumes ou água",
+        "amount": "1 litro",
+        "estimatedGrams": 1000,
+        "category": "despensa"
+      },
+      {
+        "item": "Noz-moscada e pimenta preta",
+        "amount": "1 pitada",
+        "estimatedGrams": 2,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Num tacho, refogue no azeite a cebola e o alho-francês em lume brando durante 5 minutos até ficarem macios sem queimar.",
+        "notes": "O alho-francês confere doçura de fundo que complementa a castanha."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Junte as castanhas descascadas e os cubos de batata. Verta o caldo de legumes bem quente, tempere com sal marinho e uma pitada de noz-moscada.",
+        "notes": "Deixe ferver em lume médio durante 25 minutos [⏳ 25 minutos] até as castanhas se desmancharem."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Triture tudo com a varinha mágica até obter um creme sedoso, aveludado e uniforme. Retifique a consistência com mais caldo se necessário.",
+        "notes": "A castanha confere uma densidade cremosa sem necessidade de natas."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Salteie as tirinhas de presunto numa frigideira seca até ficarem estaladiças. Sirva o creme de castanhas decorado com o presunto estaladiço e um fio de azeite cru.",
+        "notes": "Sopa nobre e secular dos invernos transmontanos."
+      }
+    ],
+    "pantrySecret": "Triturar muito bem as castanhas bem cozidas com azeite transmontano; a castanha tem amido cremoso natural que substitui completamente qualquer natas ou leite.",
+    "originalSourceTitle": "Receituário Secular de Trás-os-Montes",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=sopa+de+castanhas+tradicional"
+  },
+  {
+    "id": "pt-creme-de-agriao",
+    "slug": "creme-de-agriao-da-horta",
+    "title": "Creme de Agrião da Horta com Batata",
+    "originalTitle": "Sopa de Agrião com Azeite Virgem",
+    "subtitle": "Base aveludada de batata e cenoura coroada com folhas frescas de agrião da nascente salteadas",
+    "category": "sopas",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "difficultyLevel": "Fácil",
+    "dropCapLetter": "C",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Vegetariano",
+      "Horta",
+      "Saudável",
+      "Agrião"
+    ],
+    "nutrition": {
+      "calories": 165,
+      "protein": 4.2,
+      "carbs": 22,
+      "fat": 7,
+      "fiber": 3.5,
+      "servingSize": "1 tigela (300ml)"
+    },
+    "ingredients": [
+      {
+        "item": "Agrião fresco de água corrente ripado",
+        "amount": "2 molhos fartos (300g)",
+        "estimatedGrams": 300,
+        "category": "legumes"
+      },
+      {
+        "item": "Batatas para puré",
+        "amount": "400g",
+        "estimatedGrams": 400,
+        "category": "legumes"
+      },
+      {
+        "item": "Cenoura média descascada",
+        "amount": "1 un (100g)",
+        "estimatedGrams": 100,
+        "category": "legumes"
+      },
+      {
+        "item": "Cebola média",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "legumes"
+      },
+      {
+        "item": "Dente de alho",
+        "amount": "1 un",
+        "estimatedGrams": 5,
+        "category": "legumes"
+      },
+      {
+        "item": "Azeite virgem extra",
+        "amount": "40ml",
+        "estimatedGrams": 36,
+        "category": "despensa"
+      },
+      {
+        "item": "Água mineral",
+        "amount": "1 litro",
+        "estimatedGrams": 1000,
+        "category": "despensa"
+      },
+      {
+        "item": "Sal marinho",
+        "amount": "1 colher de chá",
+        "estimatedGrams": 5,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Numa panela, coloque as batatas em cubos, a cenoura, a cebola e o alho com 1L de água e uma pitada de sal. Deixe cozer durante 20 minutos [⏳ 20 minutos] até os legumes ficarem macios.",
+        "notes": "Mantenha o lume médio para não evaporar o caldo."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Passe a varinha mágica até obter um puré macio e aveludado de tom dourado claro.",
+        "notes": "Adicione metade do azeite virgem ao puré."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Com o creme ao lume a ferver suavemente, adicione as folhas de agrião limpas e cortadas grosseiramente. Coza destapado durante apenas 3 minutos [⏳ 3 minutos].",
+        "notes": "O agrião coze em 3 minutos e deve manter a cor verde brilhante e o sabor picante suave característico."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Sirva em tigelas fundas regando com o restante azeite virgem cru à superfície.",
+        "notes": "Um clássico saudável da cozinha portuguesa do dia-a-dia."
+      }
+    ],
+    "pantrySecret": "Juntar o agrião fresco apenas nos últimos 3 minutos com a panela destapada; preserva as vitaminas, o picante fresco e a cor verde intensa.",
+    "originalSourceTitle": "Compêndio da Cozinha Campestre Portuguesa",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=sopa+de+agriao+tradicional"
+  },
+  {
+    "id": "pt-caldo-de-grao",
+    "slug": "caldo-de-grao-com-espinafres",
+    "title": "Caldo de Grão com Espinafres e Carnes da Beira",
+    "originalTitle": "Sopa de Grão à Beirã",
+    "subtitle": "Grão-de-bico macio em caldo reconfortante com espinafres frescos, nabo e enchidos tradicionais",
+    "category": "sopas",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "difficulty": "Médio",
+    "difficultyLevel": "Médio",
+    "dropCapLetter": "C",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Beira Alta",
+      "Grão-de-bico",
+      "Espinafres",
+      "Inverno"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 36,
+      "fat": 14.5,
+      "fiber": 6.8,
+      "servingSize": "1 tigela substancial (380g)"
+    },
+    "ingredients": [
+      {
+        "item": "Grão-de-bico demolhado e cozido",
+        "amount": "500g",
+        "estimatedGrams": 500,
+        "category": "legumes"
+      },
+      {
+        "item": "Espinafres frescos bem lavados",
+        "amount": "250g",
+        "estimatedGrams": 250,
+        "category": "legumes"
+      },
+      {
+        "item": "Batata média em cubinhos",
+        "amount": "2 un (250g)",
+        "estimatedGrams": 250,
+        "category": "legumes"
+      },
+      {
+        "item": "Nabo pequeno cortado em cubos",
+        "amount": "1 un (100g)",
+        "estimatedGrams": 100,
+        "category": "legumes"
+      },
+      {
+        "item": "Cenoura em cubinhos",
+        "amount": "1 un (100g)",
+        "estimatedGrams": 100,
+        "category": "legumes"
+      },
+      {
+        "item": "Chouriço de carne em rodelas",
+        "amount": "80g",
+        "estimatedGrams": 80,
+        "category": "carnes"
+      },
+      {
+        "item": "Azeite virgem extra da Beira",
+        "amount": "40ml",
+        "estimatedGrams": 36,
+        "category": "despensa"
+      },
+      {
+        "item": "Dentes de alho e cominhos em pó",
+        "amount": "1 pitada",
+        "estimatedGrams": 5,
+        "category": "especiarias"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Retire metade do grão cozido com um pouco do caldo da cozedura e triture até formar um puré cremoso.",
+        "notes": "O puré de grão substitui a batata como espessante nutritivo."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Numa panela grande, refogue no azeite o alho e as rodelas de chouriço. Junte a cenoura, o nabo, as batatas em cubinhos e uma pitada sutil de cominhos moídos.",
+        "notes": "Os cominhos ajudam à digestão do grão e conferem perfume campestre."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Verta o puré de grão, o restante grão inteiro e caldo quente suficiente. Coza em lume brando durante 20 minutos [⏳ 20 minutos] até os legumes estarem tenros.",
+        "notes": "Mexa de vez em quando para não pegar ao fundo."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Adicione os espinafres frescos nos últimos 4 minutos de cozedura. Retifique o sal e sirva fumegante.",
+        "notes": "Sopa robusta tradicional das serras beirãs."
+      }
+    ],
+    "pantrySecret": "Triturar metade do grão cozido para criar o corpo cremoso do caldo e aromatizar com uma leve pitada de cominhos moídos.",
+    "originalSourceTitle": "Gastronomia Tradicional da Beira Alta",
+    "originalSourceUrl": "https://www.youtube.com/results?search_query=sopa+de+grao+com+espinafres+tradicional"
+  },
+  {
+    "id": "pt-rancho-viseu",
+    "slug": "rancho-a-moda-de-viseu",
+    "title": "Rancho à Moda de Viseu",
+    "originalTitle": "Rancho Tradicional de Viseu",
+    "subtitle": "A emblemática sopa-refeição beirã de grão-de-bico, vitela da serra, entremeada, chouriço e macarrão riscado",
+    "category": "sopas",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 65,
+    "servings": 6,
+    "difficulty": "Médio",
+    "difficultyLevel": "Médio",
+    "dropCapLetter": "R",
+    "isPortugueseTraditional": true,
+    "area": "Portuguese",
+    "tags": [
+      "Portugal",
+      "Sopa",
+      "Prato Único",
+      "Viseu",
+      "Beira",
+      "Grão",
+      "Macarrão"
+    ],
+    "nutrition": {
+      "calories": 540,
+      "protein": 38,
+      "carbs": 46,
+      "fat": 22.5,
+      "fiber": 6.2,
+      "servingSize": "1 prato cheio de rancho (450g)"
+    },
+    "ingredients": [
+      {
+        "item": "Carne de vaca para cozer (aba ou chambão)",
+        "amount": "400g",
+        "estimatedGrams": 400,
+        "category": "carnes"
+      },
+      {
+        "item": "Entremeada de porco fresca",
+        "amount": "200g",
+        "estimatedGrams": 200,
+        "category": "carnes"
+      },
+      {
+        "item": "Chouriço de carne da Beira",
+        "amount": "1 un (120g)",
+        "estimatedGrams": 120,
+        "category": "carnes"
+      },
+      {
+        "item": "Grão-de-bico demolhado e cozido",
+        "amount": "350g",
+        "estimatedGrams": 350,
+        "category": "legumes"
+      },
+      {
+        "item": "Macarrão riscado grosso",
+        "amount": "250g",
+        "estimatedGrams": 250,
+        "category": "despensa"
+      },
+      {
+        "item": "Batatas cortadas em cubos",
+        "amount": "300g",
+        "estimatedGrams": 300,
+        "category": "legumes"
+      },
+      {
+        "item": "Couve portuguesa em pedaços",
+        "amount": "200g",
+        "estimatedGrams": 200,
+        "category": "legumes"
+      },
+      {
+        "item": "Cenoura cortada em rodelas",
+        "amount": "2 un (160g)",
+        "estimatedGrams": 160,
+        "category": "legumes"
+      },
+      {
+        "item": "Cebola, azeite, louro e piripiri",
+        "amount": "Q.b.",
+        "estimatedGrams": 80,
+        "category": "legumes"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "portugueseText": "Numa panela com água com sal e louro, coza as carnes (vitela, entremeada e chouriço) durante 45 minutos [⏳ 45 minutos] até ficarem macias. Retire as carnes e corte-as em pedaços médios.",
+        "notes": "Guarde o caldo rico da cozedura."
+      },
+      {
+        "stepNumber": 2,
+        "portugueseText": "Ao caldo a ferver junte a cebola picada, as cenouras, as batatas em cubos e o grão-de-bico cozido. Coza durante 10 minutos.",
+        "notes": "O caldo adquire riqueza aromática das carnes e dos vegetais."
+      },
+      {
+        "stepNumber": 3,
+        "portugueseText": "Adicione a couve cortada e o macarrão riscado. Cozinhe durante 10 a 12 minutos [⏳ 11 minutos] até a massa ficar no ponto perfeito al dente.",
+        "notes": "O rancho não deve ficar nem seco como massa nem demasiado aguado como caldo fino."
+      },
+      {
+        "stepNumber": 4,
+        "portugueseText": "Junte as carnes cortadas de volta à panela nos últimos minutos para aquecerem. Sirva fumegante em pratos fundos.",
+        "notes": "Prato comunitário que alimentava as tropas e os trabalhadores das vindimas beirãs."
+      }
+    ],
+    "pantrySecret": "Cozinhar a massa e a couve diretamente no caldo filtrado das carnes para que cada macarrão absorva todo o sabor da vitela e dos enchidos.",
+    "originalSourceTitle": "Tradição Gastronómica da Cidade de Viseu",
+    "originalSourceUrl": "https://pt.wikipedia.org/wiki/Rancho_de_Viseu"
+  }
+]

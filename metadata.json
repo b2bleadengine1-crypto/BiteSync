@@ -1,0 +1,7 @@
+{
+  "name": "Grandmother's Old Secrets",
+  "description": "Dossier Técnico & Compêndio Culinário: receitas canónicas sem cortes, guia de frutas, gerador de rótulos vintage e ementa semanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

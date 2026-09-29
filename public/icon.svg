@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3a1d13" />
+      <stop offset="70%" stop-color="#24130a" />
+      <stop offset="100%" stop-color="#140a05" />
+    </radialGradient>
+    <radialGradient id="waxGrad" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#991b1b" />
+      <stop offset="45%" stop-color="#6b1d2f" />
+      <stop offset="85%" stop-color="#450a16" />
+      <stop offset="100%" stop-color="#28030b" />
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="25%" stop-color="#e8c872" />
+      <stop offset="50%" stop-color="#c59b27" />
+      <stop offset="80%" stop-color="#8c6214" />
+      <stop offset="100%" stop-color="#593c08" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- Fundo do Ícone PWA -->
+  <rect width="512" height="512" rx="104" fill="url(#bgGrad)" />
+  <rect width="500" height="500" x="6" y="6" rx="98" fill="none" stroke="url(#goldGrad)" stroke-width="4" stroke-opacity="0.4" />
+
+  <!-- Selo Real de Lacre em Cera Bordô -->
+  <circle cx="256" cy="256" r="195" fill="url(#waxGrad)" filter="url(#shadow)" />
+  <circle cx="256" cy="256" r="182" fill="none" stroke="url(#goldGrad)" stroke-width="5" stroke-dasharray="8 6" opacity="0.85" />
+  <circle cx="256" cy="256" r="168" fill="none" stroke="url(#goldGrad)" stroke-width="2.5" opacity="0.6" />
+
+  <!-- Coroa e Ornato Superior -->
+  <path d="M216 142 L256 120 L296 142 L284 158 L228 158 Z" fill="url(#goldGrad)" />
+  <circle cx="216" cy="138" r="4" fill="url(#goldGrad)" />
+  <circle cx="256" cy="116" r="5" fill="url(#goldGrad)" />
+  <circle cx="296" cy="138" r="4" fill="url(#goldGrad)" />
+
+  <!-- Livro de Receitas Antigo / Grimório Aberto -->
+  <g transform="translate(146, 175)" filter="url(#shadow)">
+    <!-- Páginas de Pergaminho Esquerdas -->
+    <path d="M110 40 C75 25 30 30 10 38 L10 178 C30 170 75 165 110 180 Z" fill="#faf5eb" />
+    <!-- Páginas de Pergaminho Direitas -->
+    <path d="M110 40 C145 25 190 30 210 38 L210 178 C190 170 145 165 110 180 Z" fill="#f4ebd9" />
+    <!-- Encadernação Central e Vinco -->
+    <path d="M106 38 L114 38 L114 182 L106 182 Z" fill="url(#goldGrad)" />
+    <!-- Linhas de Escrita Manuscrita Caligráfica -->
+    <line x1="28" y1="65" x2="92" y2="65" stroke="#6b1d2f" stroke-width="3" stroke-linecap="round" opacity="0.75" />
+    <line x1="28" y1="85" x2="92" y2="85" stroke="#4a3528" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+    <line x1="28" y1="105" x2="92" y2="105" stroke="#4a3528" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+    <line x1="28" y1="125" x2="80" y2="125" stroke="#4a3528" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+
+    <line x1="128" y1="65" x2="192" y2="65" stroke="#6b1d2f" stroke-width="3" stroke-linecap="round" opacity="0.75" />
+    <line x1="128" y1="85" x2="192" y2="85" stroke="#4a3528" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+    <line x1="128" y1="105" x2="192" y2="105" stroke="#4a3528" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+    <line x1="128" y1="125" x2="175" y2="125" stroke="#4a3528" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+
+    <!-- Mini Colher Culinária Dourada Cruzada com Pena de Caligrafia -->
+    <circle cx="110" cy="110" r="14" fill="#24130a" stroke="url(#goldGrad)" stroke-width="2" />
+    <path d="M104 105 L116 115 M116 105 L104 115" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round" />
+  </g>
+
+  <!-- Inscrição Circular de Grimório em Latim e Português -->
+  <text x="256" y="405" font-family="Georgia, serif" font-size="19" font-weight="bold" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="4">
+    CODEX CULINARIUS
+  </text>
+  <text x="256" y="426" font-family="Georgia, serif" font-size="12" fill="#e8c872" text-anchor="middle" letter-spacing="2" opacity="0.85">
+    GRANDMOTHER'S OLD SECRETS
+  </text>
+
+  <!-- Estrelas de Filigrana -->
+  <polygon points="256,76 260,86 270,88 262,94 265,104 256,98 247,104 250,94 242,88 252,86" fill="url(#goldGrad)" />
+</svg>
